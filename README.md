@@ -1,2 +1,2 @@
-# FIN_40260
-Python for Finance
+# Python for Finance
+
